@@ -1,0 +1,6 @@
+transformers
+datasets
+google-generativeai
+gemini-api
+tqdm
+torch
